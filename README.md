@@ -1,4 +1,4 @@
-## Maptime Starter site
+## Maptime Dallas
 
 Hosting your own meetup? Starter is desgined to be easily forked and tweaked to suit your own needs. Starter is a simple Jekyll theme for MapTime meetups. [Jekyll](http://jekyllrb.com/) is a simple, blog-aware, static site generator for personal, project, or organization sites.
 
